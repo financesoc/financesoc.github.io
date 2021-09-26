@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<img src="finsoclogo3.png" alt="Finsoc logo" style="width:400px;height:400px;">
+
+<h1><center>Imperial Finance Society</center></h1>
+<p>Our website is currently being re-developed. We apologise for any inconvenience.</p>
+<p>If you would like to contribute to this project, please get in touch at finsoc@ic.ac.uk</p>
+
+</body>
+</html> 
